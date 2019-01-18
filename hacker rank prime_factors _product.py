@@ -4,7 +4,7 @@ Created on Fri Jan  4 23:54:51 2019
 
 @author: nidhi
 """
-from functools import reduce
+
 def primeCount(n):
     #[1,n]
     # Write your code here.
